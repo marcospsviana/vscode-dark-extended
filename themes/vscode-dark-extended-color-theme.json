@@ -270,13 +270,22 @@
 			"name": "Function, Special Method",
 			"scope": [
 				"entity.name.function",
-				"meta.function-call",
+				// "meta.function-call",
 				"variable.function",
 				"support.function",
 				"keyword.other.special-method"
 			],
 			"settings": {
 				"foreground": "#e4d99c"
+			}
+		},
+		{
+			"name": "Function Call",
+			"scope": [
+				"meta.function-call",
+			],
+			"settings": {
+				"foreground": "#6fb4e2",
 			}
 		},
 		{
