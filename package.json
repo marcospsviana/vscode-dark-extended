@@ -13,7 +13,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "vscode-dark-extended",
+        "label": "Vscode Dark Extended",
         "uiTheme": "vs-dark",
         "path": "./themes/vscode-dark-extended-color-theme.json"
       }
