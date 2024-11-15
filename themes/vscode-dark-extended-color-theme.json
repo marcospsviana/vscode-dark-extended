@@ -32,20 +32,15 @@
 		"editorCodeLens.foreground": "#1e8daf",
 		"notifications.foreground": "#FFFFFF",
 		"activityBar.activeBorder": "#0078D4",
-
 		"activityBar.border": "#2B2B2B",
 		"activityBar.foreground": "#D7D7D7",
 		"activityBar.inactiveForeground": "#868686",
 		"checkbox.border": "#6B6B6B",
-		
-		
 		"editor.inactiveSelectionBackground": "#3a3d4162",
 		"editorIndentGuide.background1": "#404040",
 		"editorIndentGuide.activeBackground1": "#707070",
 		"editor.selectionHighlightBackground": "#ADD6FF26",
 		"list.dropBackground": "#383B3D",
-		
-		
 		"input.placeholderForeground": "#A6A6A6",
 		"menu.background": "#252526",
 		"menu.foreground": "#CCCCCC",
@@ -55,7 +50,6 @@
 		"statusBarItem.remoteForeground": "#FFF",
 		"statusBarItem.remoteBackground": "#16825D",
 		"ports.iconRunningProcessForeground": "#369432",
-		
 		"sideBarSectionHeader.border": "#ccc3",
 		"tab.selectedBackground": "#222222",
 		"tab.selectedForeground": "#ffffffa0",
@@ -177,7 +171,6 @@
 				"foreground": "#CE9178"
 			}
 		},
-		
 		{
 			"name": "Variable and parameter name",
 			"scope": [
@@ -191,8 +184,6 @@
 				"foreground": "#9CDCFE"
 			}
 		},
-	
-		
 		{
 			"name": "Comment",
 			"scope": [
@@ -811,5 +802,4 @@
 			}
 		}
 	],
-
 }
