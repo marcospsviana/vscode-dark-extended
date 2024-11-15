@@ -240,6 +240,17 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
+				
+				"keyword.other.template",
+				"keyword.other.substitution"
+			],
+			"settings": {
+				"foreground": "#46aafc"
+			}
+		},
+		{
+			"name": "Ponctuation, tag",
+			"scope": [
 				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
@@ -248,11 +259,9 @@
 				"punctuation.definition.tag.begin.html",
 				"punctuation.definition.tag.end.html",
 				"punctuation.section.embedded",
-				"keyword.other.template",
-				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#d68bca"
+				"foreground": "#e9b629"
 			}
 		},
 		{
@@ -276,7 +285,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#e4d99c"
+				"foreground": "#faea8f"
 			}
 		},
 		{
