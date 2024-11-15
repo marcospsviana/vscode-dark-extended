@@ -64,11 +64,7 @@
 		"terminal.inactiveSelectionBackground": "#3A3D41",
 		"widget.border": "#303031",
 		"actionBar.toggledBackground": "#383a49"
-
-
-		
 	},
-	
 	"tokenColors": [
 		{
 			"name": "Control flow / Special keywords",
@@ -815,6 +811,5 @@
 			}
 		}
 	],
-	
 
 }
